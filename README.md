@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @DariaNika
+- 👀 I’m interested in Data Science and Data Analysis
+- 🌱 I’m continuously learning SQL, ML and Python
+- 💞️ I’m looking to collaborate on projects related to people behavior (social science, marketing, advertisement, B2C sales, ecom)
+- 📫 You can reach via Telegram @DariaNika
